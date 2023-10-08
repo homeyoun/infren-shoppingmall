@@ -14,6 +14,7 @@
     "react-dom": "^18.2.0",
     "react-query": "^3.39.3",
     "react-router-dom": "^6.16.0",
+    "sass": "^1.69.0",
     "vite-plugin-next-react-router": "^0.7.1"
   },
   "devDependencies": {
